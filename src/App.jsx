@@ -12,7 +12,6 @@ import Testimonials from "./components/Testimonials/Testimonials";
 import Footer from "./components/Footer/Footer";
 import AnimatedCursor from "react-animated-cursor";
  
- 
 function App() {
   const [count, setCount] = useState(0);
  
