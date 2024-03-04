@@ -14,10 +14,10 @@ function Testimonials() {
             nesciunt!
           </p>
           <img
-            src="src/components/Photo/kot.jpg"
+            src="https://i.pinimg.com/564x/b6/33/6e/b6336e54722e71e418e7f44a52bfca44.jpg"
             alt=""
           />
-          <h4>Kotty</h4>
+          <h4>Loopy</h4>
           <p className={styles.bio}>Web Developer</p>
         </div>
         <div className={styles.testi_items}>
@@ -28,10 +28,10 @@ function Testimonials() {
             nesciunt!
           </p>
           <img
-            src="src/components/Photo/mint.jpg"
+            src="https://i.pinimg.com/564x/b7/07/ce/b707ce3237cc1ff27dd44cfe26946cca.jpg"
             alt=""
           />
-          <h4>Mint</h4>
+          <h4>Macaronia</h4>
           <p className={styles.bio}>Web Developer</p>
         </div>
         <div className={styles.testi_items}>
@@ -42,10 +42,10 @@ function Testimonials() {
             nesciunt!
           </p>
           <img
-            src="src/components/Photo/ice.jpg"
+            src="https://i.pinimg.com/564x/c4/d2/05/c4d205f72f6cf0d58d920473189d2060.jpg"
             alt=""
           />
-          <h4>SoIce</h4>
+          <h4>My melody</h4>
           <p className={styles.bio}>Web Developer</p>
         </div>
       </div>
