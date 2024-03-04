@@ -33,7 +33,7 @@ function Hero() {
             </p>
             <ul className={styles.hero_social}>
               <li>
-                <a href="">
+                <a href="https://github.com/puffeve">
                   <FaGithub />
                 </a>
               </li>
@@ -43,7 +43,7 @@ function Hero() {
                 </a>
               </li>
               <li>
-                <a href="">
+                <a href="https://www.facebook.com/TheEve2003">
                   <FaFacebookF />
                 </a>
               </li>
